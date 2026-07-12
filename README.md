@@ -17,3 +17,19 @@ Solutions are structured by difficulty level:
     ├── Easy/
     ├── Medium/
     └── Hard/
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+<!---LeetCode Topics End-->
