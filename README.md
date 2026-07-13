@@ -54,4 +54,8 @@ Solutions are structured by difficulty level:
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
