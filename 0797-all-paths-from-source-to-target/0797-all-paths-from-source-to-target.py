@@ -3,16 +3,15 @@ class Solution:
         ans = []
 
         def f(node, path):
-            path.append(node)
-
+           
             if node == len(graph) - 1:
                 ans.append(path[:])     
             else:
-                for nei in graph[node]:
-                    f(nei, path)
+                for k in graph[node]:
+                    f(k, path+[k])
 
-            path.pop()   
+             
 
-        f(0, [])         
+        f(0, [0])         
         return ans    
         
