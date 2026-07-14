@@ -65,4 +65,20 @@ Solutions are structured by difficulty level:
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Backtracking
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0797-all-paths-from-source-to-target) |
+## Depth-First Search
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0797-all-paths-from-source-to-target) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0797-all-paths-from-source-to-target) |
+## Graph Theory
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0797-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
