@@ -34,6 +34,7 @@ Solutions are structured by difficulty level:
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0202-happy-number](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -51,6 +52,7 @@ Solutions are structured by difficulty level:
 | [0005-longest-palindromic-substring](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0141-linked-list-cycle](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0876-middle-of-the-linked-list](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
@@ -113,4 +115,5 @@ Solutions are structured by difficulty level:
 | ------- |
 | [0141-linked-list-cycle](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
