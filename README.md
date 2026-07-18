@@ -34,6 +34,7 @@ Solutions are structured by difficulty level:
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -65,6 +66,7 @@ Solutions are structured by difficulty level:
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -78,6 +80,7 @@ Solutions are structured by difficulty level:
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
