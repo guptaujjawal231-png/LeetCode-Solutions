@@ -34,6 +34,7 @@ Solutions are structured by difficulty level:
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0067-add-binary](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -61,6 +62,7 @@ Solutions are structured by difficulty level:
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0067-add-binary](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Dynamic Programming
 |  |
@@ -113,6 +115,7 @@ Solutions are structured by difficulty level:
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -136,4 +139,8 @@ Solutions are structured by difficulty level:
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
