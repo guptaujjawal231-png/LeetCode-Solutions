@@ -65,6 +65,7 @@ Solutions are structured by difficulty level:
 | [0020-valid-parentheses](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Dynamic Programming
 |  |
@@ -127,6 +128,7 @@ Solutions are structured by difficulty level:
 | [0142-linked-list-cycle-ii](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Memoization
 |  |
 | ------- |
@@ -148,4 +150,12 @@ Solutions are structured by difficulty level:
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0067-add-binary) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
