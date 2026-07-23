@@ -64,6 +64,7 @@ Solutions are structured by difficulty level:
 | [0005-longest-palindromic-substring](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0242-valid-anagram](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Dynamic Programming
 |  |
@@ -112,6 +113,7 @@ Solutions are structured by difficulty level:
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
@@ -124,6 +126,7 @@ Solutions are structured by difficulty level:
 | [0141-linked-list-cycle](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 ## Memoization
 |  |
 | ------- |
