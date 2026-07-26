@@ -78,6 +78,7 @@ Solutions are structured by difficulty level:
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -85,6 +86,7 @@ Solutions are structured by difficulty level:
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Enumeration
 |  |
 | ------- |
