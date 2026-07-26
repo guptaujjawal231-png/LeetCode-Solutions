@@ -88,6 +88,7 @@ Solutions are structured by difficulty level:
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0222-count-complete-tree-nodes](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Enumeration
 |  |
@@ -162,6 +163,7 @@ Solutions are structured by difficulty level:
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0222-count-complete-tree-nodes](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0389-find-the-difference](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 ## Queue
 |  |
@@ -176,9 +178,11 @@ Solutions are structured by difficulty level:
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
