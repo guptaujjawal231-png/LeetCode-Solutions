@@ -74,6 +74,7 @@ Solutions are structured by difficulty level:
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0509-fibonacci-number](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Array
 |  |
@@ -111,6 +112,7 @@ Solutions are structured by difficulty level:
 | [0104-maximum-depth-of-binary-tree](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0797-all-paths-from-source-to-target](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0797-all-paths-from-source-to-target) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -179,10 +181,16 @@ Solutions are structured by difficulty level:
 | [0104-maximum-depth-of-binary-tree](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 <!---LeetCode Topics End-->
