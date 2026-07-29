@@ -55,6 +55,7 @@ Solutions are structured by difficulty level:
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0088-merge-sorted-array](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0202-happy-number) |
@@ -80,6 +81,7 @@ Solutions are structured by difficulty level:
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -127,6 +129,7 @@ Solutions are structured by difficulty level:
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
