@@ -16,6 +16,9 @@ public:
     }
     bool predictTheWinner(vector<int>& nums) {
         int n=nums.size();
+        if(n==1){
+            return true;
+        }
         return recur(nums,0,0,1,0,n-1);
     }
 };
