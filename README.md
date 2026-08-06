@@ -93,6 +93,7 @@ Solutions are structured by difficulty level:
 | [0486-predict-the-winner](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0713-subarray-product-less-than-k](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0877-stone-game](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -103,6 +104,7 @@ Solutions are structured by difficulty level:
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0713-subarray-product-less-than-k](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 ## Enumeration
 |  |
 | ------- |
@@ -212,4 +214,12 @@ Solutions are structured by difficulty level:
 | ------- |
 | [0486-predict-the-winner](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0877-stone-game) |
+## Sliding Window
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
