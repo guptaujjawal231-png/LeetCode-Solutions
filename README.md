@@ -58,6 +58,7 @@ Solutions are structured by difficulty level:
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0075-sort-colors](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -87,6 +88,7 @@ Solutions are structured by difficulty level:
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0213-house-robber-ii](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
@@ -140,6 +142,7 @@ Solutions are structured by difficulty level:
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0389-find-the-difference) |
@@ -222,4 +225,12 @@ Solutions are structured by difficulty level:
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
