@@ -34,6 +34,7 @@ Solutions are structured by difficulty level:
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0371-sum-of-two-integers](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
@@ -71,6 +72,7 @@ Solutions are structured by difficulty level:
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0242-valid-anagram) |
@@ -161,6 +163,7 @@ Solutions are structured by difficulty level:
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0141-linked-list-cycle](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0202-happy-number) |
