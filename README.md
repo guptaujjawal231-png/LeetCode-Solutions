@@ -255,4 +255,8 @@ Solutions are structured by difficulty level:
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0075-sort-colors) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
