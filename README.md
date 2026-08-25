@@ -100,6 +100,7 @@ Solutions are structured by difficulty level:
 | [0088-merge-sorted-array](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0213-house-robber-ii](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
+| [0238-product-of-array-except-self](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0486-predict-the-winner](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -243,6 +244,7 @@ Solutions are structured by difficulty level:
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0713-subarray-product-less-than-k](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Quicksort
