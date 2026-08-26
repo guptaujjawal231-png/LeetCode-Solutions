@@ -263,4 +263,5 @@ Solutions are structured by difficulty level:
 | [0175-combine-two-tables](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0176-second-highest-salary) |
 | [0183-customers-who-never-order](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0183-customers-who-never-order) |
+| [0196-delete-duplicate-emails](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
