@@ -82,6 +82,7 @@ Solutions are structured by difficulty level:
 | [0389-find-the-difference](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/1927-sum-game) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Dynamic Programming
 |  |
@@ -241,6 +242,7 @@ Solutions are structured by difficulty level:
 | [0003-longest-substring-without-repeating-characters](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0713-subarray-product-less-than-k](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Prefix Sum
 |  |
 | ------- |
