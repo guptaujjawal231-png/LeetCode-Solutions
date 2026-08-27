@@ -84,6 +84,7 @@ Solutions are structured by difficulty level:
 | [1927-sum-game](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -123,6 +124,7 @@ Solutions are structured by difficulty level:
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/1291-sequential-digits) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Number Theory
 |  |
 | ------- |
@@ -178,6 +180,7 @@ Solutions are structured by difficulty level:
 | [0242-valid-anagram](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0389-find-the-difference) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Memoization
 |  |
 | ------- |
@@ -193,6 +196,7 @@ Solutions are structured by difficulty level:
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -212,6 +216,7 @@ Solutions are structured by difficulty level:
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Tree
 |  |
 | ------- |
