@@ -148,6 +148,7 @@ Solutions are structured by difficulty level:
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
@@ -155,6 +156,7 @@ Solutions are structured by difficulty level:
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0797-all-paths-from-source-to-target) |
 ## Graph Theory
 |  |
@@ -229,6 +231,7 @@ Solutions are structured by difficulty level:
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
@@ -236,6 +239,7 @@ Solutions are structured by difficulty level:
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Search Tree
