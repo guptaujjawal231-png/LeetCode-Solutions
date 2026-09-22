@@ -36,6 +36,7 @@ Solutions are structured by difficulty level:
 | ------- |
 | [0002-add-two-numbers](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
+| [0062-unique-paths](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0371-sum-of-two-integers](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
@@ -100,6 +101,7 @@ Solutions are structured by difficulty level:
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0213-house-robber-ii](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
 | [0486-predict-the-winner](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
@@ -296,4 +298,8 @@ Solutions are structured by difficulty level:
 | [0176-second-highest-salary](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0176-second-highest-salary) |
 | [0183-customers-who-never-order](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0196-delete-duplicate-emails) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
