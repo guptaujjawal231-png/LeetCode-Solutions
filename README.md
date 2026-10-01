@@ -84,6 +84,7 @@ Solutions are structured by difficulty level:
 | [0012-integer-to-roman](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0072-edit-distance](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0242-valid-anagram](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0389-find-the-difference) |
@@ -102,6 +103,7 @@ Solutions are structured by difficulty level:
 | [0005-longest-palindromic-substring](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0062-unique-paths) |
+| [0072-edit-distance](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0213-house-robber-ii](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
 | [0486-predict-the-winner](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
