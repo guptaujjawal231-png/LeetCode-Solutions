@@ -116,6 +116,7 @@ Solutions are structured by difficulty level:
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0056-merge-intervals](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -180,6 +181,7 @@ Solutions are structured by difficulty level:
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0147-insertion-sort-list) |
@@ -288,6 +290,7 @@ Solutions are structured by difficulty level:
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0075-sort-colors) |
 ## Bubble Sort
 |  |
