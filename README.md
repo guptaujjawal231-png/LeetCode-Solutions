@@ -88,6 +88,7 @@ Solutions are structured by difficulty level:
 | [0242-valid-anagram](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0389-find-the-difference) |
+| [0856-score-of-parentheses](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1108-defanging-an-ip-address](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/1108-defanging-an-ip-address) |
@@ -218,6 +219,7 @@ Solutions are structured by difficulty level:
 | ------- |
 | [0020-valid-parentheses](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0856-score-of-parentheses](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
 |  |
@@ -307,4 +309,8 @@ Solutions are structured by difficulty level:
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0062-unique-paths) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/guptaujjawal231-png/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
